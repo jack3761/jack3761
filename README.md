@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Jack Purkiss
 
+- I'm an MSc student at Bournemouth University studing Computer Animation and Visual Effects.
+- See my links at linktr.ee/jackpurkiss (website coming soon)
+- I'm interested in all things Computer Graphics
 <!--
 **jack3761/jack3761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
