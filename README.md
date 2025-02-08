@@ -1,8 +1,9 @@
 ### Hi 👋 I'm Jack Purkiss
 
-- I'm an MSc student at Bournemouth University studing Computer Animation and Visual Effects.
-- See my links at [linktr.ee/jackpurkiss](https://linktr.ee/jackpurkiss) (website coming soon)
-- I'm interested in all things Computer Graphics
+- I've recently graduated from MSc Computer Animation and Visual effects from Bournemouth University
+- This year, I'm taking some time to travel, while I work on building my portfolio
+- Take a look at my [website](https://jack3761.github.io/) or check all my links at [linktr.ee/jackpurkiss](https://linktr.ee/jackpurkiss)
+- I love to build tools for DCC packages, particularly Houdini, Maya and Unreal Engine. Take a look at my [masters project](https://github.com/jack3761/UE-UsdAttributeTool) where I developed a set of USD tools for Unreal Engine
 <!--
 **jack3761/jack3761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
